@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Output folder (optional if you don't want to push scraped data)
+OUTPUT/
+
+# OS files
+.DS_Store
+Thumbs.db
